@@ -1,7 +1,7 @@
 id=Systemize-Google-Clock
-name=Systemize Google Clock
-version=v7.5
-versionCode=536956525
+name=Systemize-Google Clock
+version=v7.6
+versionCode=566900781
 author=Naman
-description=This module systemizes the Google Clock by installing it inside /system/product/app and replaces the default MIUI Clock.
+description=This Magisk module systemizes the Google Clock by installing it inside /system/product/app and replaces the default MIUI Clock.
 updateJson=https://raw.githubusercontent.com/namanxjha/Systemize-Google-Clock/master/update.json
