@@ -12,7 +12,7 @@
 <strong>
 
 <div align="center">
-  This module systemizes the Google Clock by installing it inside /system/product/app and replaces the default MIUI Clock.
+  This Magisk module systemizes the Google Clock by installing it inside /system/product/app and replaces the default MIUI Clock.
 </div>
 <br>
 
